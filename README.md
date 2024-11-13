@@ -3,8 +3,6 @@
 
 <iframe src="wine.html" width=800 height=600 frameBorder=0></iframe>
 
-<iframe src="horizontal_box_histogram.html" width=800 height=600 frameBorder=0></iframe>
-
 <iframe src="globe_map.html" width=800 height=600 frameBorder=0></iframe>
 
 <iframe src="year_scroll.html" width=800 height=600 frameBorder=0></iframe>
