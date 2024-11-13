@@ -12,5 +12,7 @@ https://thoranna.github.io/learning_to_taste/
 
 <iframe src="year_scroll.html" width=800 height=600 frameBorder=0></iframe>
 
+<iframe src="bar_grape.html" width=800 height=600 frameBorder=0></iframe>
+
 <iframe src="feature_quality.html" width=800 height=600 frameBorder=0></iframe>
 
