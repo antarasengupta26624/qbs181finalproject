@@ -11,7 +11,15 @@ Each review is associated with a label, which contains a wealth of information i
 </p>
 <iframe src="globe_map.html" width=800 height=600 frameBorder=0></iframe>
 
+<p style="font-family: 'Times New Roman', Times, serif;">
+One reason for the lower rating for wines higher in alcohol content could be that wines higher in alcohol content are higher in price. We visualized the relationship between alcohol content and price overtime, and did not see any noticeable trends [Methods 1D]. Wines that had higher alcohol content and lower ratings appeared to have average prices, so there must have been a different quality of the wine that caused lower ratings. 
+</p>
+
 <iframe src="year_scroll.html" width=800 height=600 frameBorder=0></iframe>
+
+<p style="font-family: 'Times New Roman', Times, serif;">
+Another area of interest we investigated is the grape varietals across different countries. We went about this through creating a stacked bar chart with the count of the grape varietals included in the dataset [Methods 1E]. Italy had the most wines in the dataset and many of them were the varietal Sangiovese. There were also many Shiraz wines from Spain represented in the dataset. An interesting avenue of investigation would be taking the written reviews from the dataset and performing natural language processing to determine if there is a noted difference in the language used to describe these different wines. However, we decided to seek out another dataset with chemical properties of wine to more specifically address our aims. 
+</p>
 
 <iframe src="bar_grape.html" width=800 height=600 frameBorder=0></iframe>
 
