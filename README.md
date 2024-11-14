@@ -2,13 +2,11 @@
   body {
     font-family: 'Times New Roman', Times, serif;
   }
-</style>
-
-<style>
-  h1 {
+	 h1 {
     text-align: center;
   }
 </style>
+
 
 # Wine Quality Analysis
 
