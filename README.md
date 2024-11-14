@@ -60,6 +60,8 @@ Another area of interest we investigated is the grape varietals across different
 
 <iframe src="bar_grape.html" width=800 height=600 frameBorder=0></iframe>
 
+### E. Feature Importance Comparison for Red and White Wine
+
 Thus, we found another dataset with more specific wine properties and quality ratings. Each wine sample was evaluated by certified wine experts, who assessed these various sensory characteristics. This dataset has 12 sensory/chemical properties and a quality score measured from 6,497 wines from Portugal. Of the 6,497 wines, 1599 of them were red and 4898 were white. They were rated on a quality score from 1 - 9. In a similar approach to the larger reviews dataset, we first looked at the distribution of scores across both the red and white wines. Though there were many more white than red wines in this dataset, the distribution of the scores between the two colors were similar. The average quality score for white wines was 5.89 and the average quality score for red wines was 5.63. Given these averages, we wanted to separately assess which sensory-chemical qualities were the most influential in determining these scores.
 
 	
