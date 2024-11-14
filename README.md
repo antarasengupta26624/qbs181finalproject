@@ -16,7 +16,18 @@
 
 ## I. Introduction
 
-ella's intro
+Wine is one of the world’s most beloved beverages, enjoyed worldwide for its rich variety of flavors, cultural value, and presence in social and culinary experiences. The market offers an expansive range of wines, from cabernet sauvignon to merlot and from Portuguese to French varieties, each distinct in its characteristics. As consumers, we each have our own tastes and preferences, continually seeking the best quality wine within our budget. But what defines a wine’s quality, and how can we identify the best options available?
+For our data analysis project, we sourced datasets from the University of California, Irvine, including data on red and white vinho verde wines from northern Portugal. Our objective is to model wine quality based on physicochemical tests, aiming to understand how specific chemical properties contribute to wine quality ratings in different regions. By examining these datasets, we hope to uncover the role of chemical factors in determining a wine’s quality, helping consumers make informed choices about the wines they select.
+
+Aim 1: Utilize Dataset A to identify the relationship between chemical properties and quality scores in wines
+1.1. Summarize the chemical composition of wines to establish wine classes based on background data
+1.2. Develop a classifier to categorize wines into chemical classes and examine their relationship with quality scores
+
+
+Aim 2: Compare wine quality between Dataset A and Dataset B
+2.1. Generalize the chemical composition of wines in Dataset B to align with the wine classes defined in Dataset A
+2.2. Use the classifier from Dataset A to predict the potential quality scores of wines in Dataset B
+
 
 ## II. Objectives
 
@@ -85,7 +96,12 @@ An interactive bar chart was generated to facilitate comparison of feature impor
 
 ## IV. Conclusion
 
-add conclusion 
+In conclusion, this study provides a comprehensive understanding of the factors influencing wine ratings, including regional variations, grape varietals, and chemical compositions. Our analysis shows that commonly used descriptors like "taste," "palate," and "fruity" are linked to higher ratings, with most reviews falling between 3 and 4.6, averaging close to 4.6. Additionally, regional trends suggest that wines with higher alcohol content, particularly from the United States and Portugal, tend to receive lower ratings than those from regions like South Africa and Argentina, hinting at a preference for wines with moderate alcohol levels.
+
+Examining grape varietals reveals distinct national associations, such as Italy’s focus on Sangiovese and Spain’s on Shiraz. This observation opens possibilities for future research on how review language may reflect cultural or regional biases associated with specific varieties. Using a Decision Tree Regressor model on a dataset of chemical properties, we further explored how characteristics like alcohol content, acidity, and sugar levels affect quality scores in red versus white wines. This model-based approach confirms the significance of chemical properties in quality assessment and identifies distinct predictors for each wine type, particularly highlighting the role of alcohol.
+
+These findings underscore the complexity of wine quality assessment by integrating consumer reviews with chemical analysis. Combining both perspectives, this research offers practical insights for producers, marketers, and wine enthusiasts, presenting data-driven recommendations to enhance wine quality and consumer satisfaction.
+
 
 https://python-graph-gallery.com/
 
