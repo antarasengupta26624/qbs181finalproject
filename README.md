@@ -51,7 +51,8 @@ The first dataset, from Bender et al. (2024), includes data from 824k reviews of
 ### B. Average Wine Ratings by Country
 
 
-Each review is associated with a label, which contains a wealth of information including the origin of the wine, the year it was bottled, the alcohol content, and other attributes. To get an idea of any areas with relatively higher or lower ratings, we looked into the ratings by country and alcohol content. The ratings ranged from 4 to 4.3, with the highest ratings coming from South Africa [4.3, NA%] and Argentina [4.25, 13.23%], and the lowest coming from the United States [3.99, 13.99%],  and Portugal [4, 14.61%].  It is worth noting that the lower rated wines appear to have slightly higher alcohol content. However, the data from these reviews give no indication regarding the origin of the reviewer, and are ultimately subjective. It could be the case that people in the lower rating countries tend to rate things lower, but we cannot know from this dataset.
+Each review is associated with a label, which contains a wealth of information including the origin of the wine, the year it was bottled, the alcohol content, and other attributes. To get an idea of any areas with relatively higher or lower ratings, we looked into the ratings by country and alcohol content. The ratings ranged from 4 to 4.3, with the highest ratings coming from South Africa [4.3, NA%] and Argentina [4.25, 13.23%], and the lowest coming from the United States [3.99, 13.99%],  and Portugal [4, 14.61%].  It is worth noting that the lower rated wines appear to have slightly higher alcohol content. However, the data from these reviews give no indication regarding the origin of the reviewer, and are ultimately subjective. It could be the case that people in the lower rating countries tend to rate things lower, but we cannot know from this dataset. Other potential reasons for the lower ratings of higher-alcohol wines could include price (since higher alcohol content often correlates with more expensive wines) or the overpowering presence of alcohol, which may disrupt the balance and harmony of the wine’s flavors.
+
 
 <iframe src="assets/globe_map.html" width=800 height=600 frameBorder=0></iframe>
 
@@ -59,7 +60,7 @@ Each review is associated with a label, which contains a wealth of information i
 ### C. Wine Price and Alcohol Content Bubble Chart by Region with Year Filter
 
 
-One reason for the lower rating for wines higher in alcohol content could be that wines higher in alcohol content are higher in price. We visualized the relationship between alcohol content and price overtime, and did not see any noticeable trends [Methods 1D]. Wines that had higher alcohol content and lower ratings appeared to have average prices, so there must have been a different quality of the wine that caused lower ratings. 
+One reason for the lower rating for wines higher in alcohol content could be that wines higher in alcohol content are higher in price. We visualized the relationship between alcohol content and price overtime, and did not see any noticeable trends [Methods 1D].  Interestingly, wines with higher alcohol content and lower ratings generally had average prices, suggesting that the lower ratings may be attributed to other factors affecting the wine's quality, rather than price alone.
 
 
 <iframe src="assets/year_scroll.html" width=800 height=600 frameBorder=0></iframe>
