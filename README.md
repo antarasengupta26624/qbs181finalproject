@@ -42,7 +42,9 @@ Aim 2: **Compare wine quality between Dataset A and Dataset B**
 ### A. Word Cloud
 
 
-The first dataset, from Bender et al. (2024), includes data from 824k reviews of wines from the Vivino platform. The reviews for wine include a picture of the label, a rating from the user on a scale of 1 to 5, and an explanation of the rating or any comments regarding the flavor of the wine. Some of the more commonly used words in these reviews include taste, palate, nose, hint, fruity, full-bodied, drink, and sweet. Upon first glance, these words appear to be neutral to positive in sentiment, so we then investigated what kind of rating these reviews are associated with. The distribution of ratings ranges from 3 to 4.6, with an average rating of approximately 4.6. The positive sentiment of the most frequently used words were reflected in average ratings close to 5. 
+The first dataset, from Bender et al. (2024), includes data from 824k reviews of wines from the Vivino platform. The dataset was contains a variety of information regarding multiple types of wine, such as year, region, rating, alcohol percentage, price, grape composition, and reviews. In addition to this dataset, the researchers conducted an in-person wine ranking study with 256 participants. However, for the purposes of this project, we focused exclusively on the Vivino data.
+
+Each wine review includes a photo of the label, a user rating on a scale of 1 to 5, and a written explanation or comments on the wine’s flavor. Commonly used terms in these reviews include "taste," "palate," "nose," "hint," "fruity," "full-bodied," "drink," and "sweet." At first glance, these terms seem to carry a neutral to positive sentiment, so we investigated their association with ratings. The distribution of ratings ranges from 3.0 to 4.6, with an average rating of approximately 4.6. The positive sentiment reflected in the most frequently used words is consistent with the high average ratings, which tend to cluster around 4.5 to 5.0.
 
 
 <iframe src="assets/wine.html" width=800 height=600 frameBorder=0></iframe>
