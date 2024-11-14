@@ -4,6 +4,15 @@
   }
 </style>
 
+<style>
+  h1 {
+    text-align: center;
+  }
+</style>
+
+# Wine Quality Analysis
+
+
 # Wine Quality Analysis
 
 
