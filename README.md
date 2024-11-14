@@ -33,7 +33,7 @@ Research Questions:
 The first dataset, from Bender et al. (2024), includes data from 824k reviews of wines from the Vivino platform. The reviews for wine include a picture of the label, a rating from the user on a scale of 1 to 5, and an explanation of the rating or any comments regarding the flavor of the wine. Some of the more commonly used words in these reviews include taste, palate, nose, hint, fruity, full-bodied, drink, and sweet. Upon first glance, these words appear to be neutral to positive in sentiment, so we then investigated what kind of rating these reviews are associated with. The distribution of ratings ranges from 3 to 4.6, with an average rating of approximately 4.6. The positive sentiment of the most frequently used words were reflected in average ratings close to 5. 
 
 
-<iframe src="wine.html" width=800 height=600 frameBorder=0></iframe>
+<iframe src="assets/wine.html" width=800 height=600 frameBorder=0></iframe>
 
 
 ### B. Average Wine Ratings by Country
