@@ -14,12 +14,13 @@ ella's intro
 ## II. Objectives
 
 Purpose of Analysis:
-To understand factors influencing wine quality and assess chemical composition differences between red and white wine.
-Uncover which characteristics contribute most significantly to quality perceptions 
+1. To understand factors influencing wine quality and assess chemical composition differences between red and white wine.
+2. Uncover which characteristics contribute most significantly to quality perceptions 
 
 Research Questions:
-What chemical characteristics impact wine quality?
-Are there distinct differences in quality-related factors between red and white wine? 
+
+1. What chemical characteristics impact wine quality?
+2. Are there distinct differences in quality-related factors between red and white wine? 
 
 
 ## III. Methods
