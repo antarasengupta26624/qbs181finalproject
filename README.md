@@ -38,6 +38,9 @@ Research Questions:
 2. Are there distinct differences in quality-related factors between red and white wine? 
 
 
+<iframe src="assets/winepouring.html" width=800 height=600 frameBorder=0></iframe>
+
+
 ## III. Methods
 
 
