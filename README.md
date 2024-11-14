@@ -19,14 +19,14 @@ For our data analysis project, we sourced datasets from the University of Califo
 
 ## II. Objectives
 
-Aim 1: Utilize Dataset A to identify the relationship between chemical properties and quality scores in wines
+Aim 1: *Utilize Dataset A to identify the relationship between chemical properties and quality scores in wines*
 
 1.1. Summarize the chemical composition of wines to establish wine classes based on background data
 
 1.2. Develop a classifier to categorize wines into chemical classes and examine their relationship with quality scores
 
 
-Aim 2: Compare wine quality between Dataset A and Dataset B
+Aim 2: *Compare wine quality between Dataset A and Dataset B*
 
 2.1. Generalize the chemical composition of wines in Dataset B to align with the wine classes defined in Dataset A
 
