@@ -78,6 +78,8 @@ An interactive bar chart was generated to facilitate comparison of feature impor
 
 ## IV. Conclusion
 
+add conclusion 
+
 https://python-graph-gallery.com/
 
 https://archive.ics.uci.edu/dataset/186/wine+quality
