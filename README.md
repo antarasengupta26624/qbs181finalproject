@@ -1,18 +1,22 @@
-<p style="font-family: 'Times New Roman', Times, serif;">
+<style>
+  body {
+    font-family: 'Times New Roman', Times, serif;
+  }
+</style>
+
 # Wine Quality Analysis
-</p>
 
-<p style="font-family: 'Times New Roman', Times, serif;">
+
 ## I. Introduction
-</p>
 
-<p style="font-family: 'Times New Roman', Times, serif;">
+ella's intro
+
 ## II. Methods
-</p>
 
-<p style="font-family: 'Times New Roman', Times, serif;">
+
+
 ### A. Word Cloud
-</p>
+
 
 <p style="font-family: 'Times New Roman', Times, serif;">
 The first dataset, from Bender et al. (2024), includes data from 824k reviews of wines from the Vivino platform. The reviews for wine include a picture of the label, a rating from the user on a scale of 1 to 5, and an explanation of the rating or any comments regarding the flavor of the wine. Some of the more commonly used words in these reviews include taste, palate, nose, hint, fruity, full-bodied, drink, and sweet. Upon first glance, these words appear to be neutral to positive in sentiment, so we then investigated what kind of rating these reviews are associated with. The distribution of ratings ranges from 3 to 4.6, with an average rating of approximately 4.6. The positive sentiment of the most frequently used words were reflected in average ratings close to 5. 
@@ -30,7 +34,7 @@ Each review is associated with a label, which contains a wealth of information i
 <iframe src="globe_map.html" width=800 height=600 frameBorder=0></iframe>
 
 <p style="font-family: 'Times New Roman', Times, serif;">
-### C. Price vs. Wine Alcohol by Year
+### C. Wine Price and Alcohol Content Bubble Chart by Region with Year Filter
 </p>
 
 <p style="font-family: 'Times New Roman', Times, serif;">
@@ -38,6 +42,10 @@ One reason for the lower rating for wines higher in alcohol content could be tha
 </p>
 
 <iframe src="year_scroll.html" width=800 height=600 frameBorder=0></iframe>
+
+<p style="font-family: 'Times New Roman', Times, serif;">
+### D. Count of Wines by Country and Grape Type
+</p>
 
 <p style="font-family: 'Times New Roman', Times, serif;">
 Another area of interest we investigated is the grape varietals across different countries. We went about this through creating a stacked bar chart with the count of the grape varietals included in the dataset [Methods 1E]. Italy had the most wines in the dataset and many of them were the varietal Sangiovese. There were also many Shiraz wines from Spain represented in the dataset. An interesting avenue of investigation would be taking the written reviews from the dataset and performing natural language processing to determine if there is a noted difference in the language used to describe these different wines. However, we decided to seek out another dataset with chemical properties of wine to more specifically address our aims. 
