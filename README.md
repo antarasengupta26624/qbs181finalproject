@@ -92,6 +92,8 @@ Examining grape varietals reveals distinct national associations, such as Italyâ
 
 These findings underscore the complexity of wine quality assessment by integrating consumer reviews with chemical analysis. Combining both perspectives, this research offers practical insights for producers, marketers, and wine enthusiasts, presenting data-driven recommendations to enhance wine quality and consumer satisfaction.
 
+## V. References
+
 
 https://python-graph-gallery.com/
 
