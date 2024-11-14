@@ -11,9 +11,6 @@
 # Wine Quality Analysis
 
 
-# Wine Quality Analysis
-
-
 ## I. Introduction
 
 Wine is one of the world’s most beloved beverages, enjoyed worldwide for its rich variety of flavors, cultural value, and presence in social and culinary experiences. The market offers an expansive range of wines, from cabernet sauvignon to merlot and from Portuguese to French varieties, each distinct in its characteristics. As consumers, we each have our own tastes and preferences, continually seeking the best quality wine within our budget. But what defines a wine’s quality, and how can we identify the best options available?
