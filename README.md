@@ -10,6 +10,13 @@
 
 # Wine Quality Analysis
 
+## Contents 
+I. Introduction 
+II. Objectives 
+III. Methods*
+IV. Conclusions 
+V. References 
+*All code can be found in Methods_final.pdf
 
 ## I. Introduction
 
