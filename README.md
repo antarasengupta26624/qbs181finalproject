@@ -11,7 +11,7 @@
 # Wine Quality Analysis
 
 ## Contents 
-I. Introduction 
+I. Introduction \
 II. Objectives 
 III. Methods*
 IV. Conclusions 
